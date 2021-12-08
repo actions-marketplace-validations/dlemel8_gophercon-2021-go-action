@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: Dlemel8 Tweeter Action
+author: Daniel Segal
+description: Simple action to send a tweet via an GitHub Action from Gophercom 2021.
 inputs:
   message:
     description: 'message you want to tweet'
